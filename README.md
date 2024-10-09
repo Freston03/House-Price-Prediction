@@ -1,7 +1,6 @@
 # House-Price-Prediction
 The "House Price Prediction" project focuses on predicting housing prices using machine learning techniques. By leveraging popular Python libraries such as NumPy, Pandas, Scikit-learn (sklearn), Matplotlib, Seaborn, and XGBoost, this project provides an end-to-end solution for accurate price estimation.
-# Conclusion
-The "House Price Prediction" project provides a practical solution for estimating housing prices based on various features. By leveraging data collection, preprocessing, visualization, XGBoost regression modeling, and model evaluation, this project offers a comprehensive approach to addressing the price prediction task. The project utilizes the "California Housing" dataset from Scikit-learn, ensuring a reliable and widely accessible data source.
+
 # Key Features
 Data Collection and Processing: The project utilizes the "California Housing" dataset, which can be directly downloaded from the Scikit-learn library. The dataset contains features such as house age, number of rooms, population, and median income. Using Pandas, the data is processed and transformed to ensure it is suitable for analysis.
 
@@ -12,3 +11,6 @@ Train-Test Split: To evaluate the performance of the regression model, the proje
 Regression Model using XGBoost: The project utilizes the XGBoost algorithm, a popular gradient boosting framework, to build the regression model. XGBoost is known for its ability to handle complex relationships between features and achieve high predictive accuracy. The Scikit-learn library provides an implementation of XGBoost that is utilized in this project.
 
 Model Evaluation: The project assesses the performance of the regression model using evaluation metrics such as R-squared error and mean absolute error. R-squared error measures the proportion of the variance in the target variable that can be explained by the model, while mean absolute error quantifies the average difference between the predicted and actual house prices. These metrics provide insights into the model's accuracy and precision. Additionally, a scatter plot is created to visualize the predicted prices against the actual prices.
+
+# Conclusion
+The "House Price Prediction" project provides a practical solution for estimating housing prices based on various features. By leveraging data collection, preprocessing, visualization, XGBoost regression modeling, and model evaluation, this project offers a comprehensive approach to addressing the price prediction task. The project utilizes the "California Housing" dataset from Scikit-learn, ensuring a reliable and widely accessible data source.
