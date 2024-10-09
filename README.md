@@ -1,8 +1,8 @@
 # House-Price-Prediction
 The "House Price Prediction" project focuses on predicting housing prices using machine learning techniques. By leveraging popular Python libraries such as NumPy, Pandas, Scikit-learn (sklearn), Matplotlib, Seaborn, and XGBoost, this project provides an end-to-end solution for accurate price estimation.
-Conclusion
+# Conclusion
 The "House Price Prediction" project provides a practical solution for estimating housing prices based on various features. By leveraging data collection, preprocessing, visualization, XGBoost regression modeling, and model evaluation, this project offers a comprehensive approach to addressing the price prediction task. The project utilizes the "California Housing" dataset from Scikit-learn, ensuring a reliable and widely accessible data source.
-Key Features
+# Key Features
 Data Collection and Processing: The project utilizes the "California Housing" dataset, which can be directly downloaded from the Scikit-learn library. The dataset contains features such as house age, number of rooms, population, and median income. Using Pandas, the data is processed and transformed to ensure it is suitable for analysis.
 
 Data Visualization: The project employs data visualization techniques to gain insights into the dataset. Matplotlib and Seaborn are utilized to create visualizations such as histograms, scatter plots, and correlation matrices. These visualizations provide a deeper understanding of the relationships between features and help identify trends and patterns.
